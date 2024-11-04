@@ -1,5 +1,3 @@
-# WalliD Library
-
 ## Overview
 
 The WalliD CertiShop lib provides an interface for interacting with the WalliD API. It allows users to create Certificate Authorities, manage templates, issue verifiable certificates, and verify certificates through a simplified and structured approach.
